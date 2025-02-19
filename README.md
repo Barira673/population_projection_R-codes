@@ -1,0 +1,1 @@
+There are total seven codes given in the folder. Each code can be modified accoding to the each SSP, number of the grids in the region, country type, total male or female population, age specific male or female population and each region total population as per requirement .    
